@@ -1,0 +1,58 @@
+/* poppins */
+@font-face {
+  font-family: 'poppins';
+  src: url(../fonts/poppins/Poppins-Regular.ttf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'poppins';
+  src: url(../fonts/poppins/Poppins-Medium.ttf);
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'poppins-italic';
+  src: url(../fonts/poppins/Poppins-MediumItalic.ttf);
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'poppins';
+  src: url(../fonts/poppins/Poppins-SemiBold.ttf);
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'poppins';
+  src: url(../fonts/poppins/Poppins-Bold.ttf);
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'poppins';
+  src: url(../fonts/poppins/Poppins-ExtraBold.ttf);
+  font-weight: 800;
+}
+/* port */
+@font-face {
+  font-family: 'port';
+  src: url(../fonts/port/PortLligatSans-Regular.ttf) format('truetype');
+  font-weight: 400;
+}
+/* icons */
+@font-face {
+  font-family: 'icons';
+  src: url(../fonts/icons/fa-brands-400.ttf) format('truetype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'icons';
+  src: url(../fonts/icons/fa-regular-400.ttf) format('truetype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'icons';
+  src: url(../fonts/icons/fa-duotone-900.ttf) format('truetype');
+  font-weight: 900;
+}
+@font-face {
+  font-family: 'icons';
+  src: url(../fonts/icons/fa-solid-900.ttf) format('truetype');
+  font-weight: 900;
+}
