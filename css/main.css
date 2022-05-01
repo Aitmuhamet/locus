@@ -1,5 +1,12 @@
 @import 'fonts.css';
 
+<<<<<<< HEAD
+=======
+.hello__world h3{
+  font-size: 40px;
+  line-height: 50px;
+}
+>>>>>>> 3a3f3032ca5d7a1976e82a508a8ec621cb999774
 
 *, a{
   margin: 0;
